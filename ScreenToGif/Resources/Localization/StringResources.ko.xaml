@@ -272,7 +272,7 @@
     <s:String x:Key="S.Options.Recorder.CacheSize">캐시 용량:</s:String>
     <s:String x:Key="S.Options.Recorder.CacheSize.Info">(MB 단위로, 용량을 채우면, 데이터는 디스크에 써지고 캐시를 비웁니다.)</s:String>
     <s:String x:Key="S.Options.Recorder.PreventBlackFrames">완전히 검은 프레임을 캡처하지 않습니다.</s:String>
-    <!--<s:String x:Key="S.Options.Recorder.PreventBlackFrames.Info">(Prevents BitBlt with a memory cache from wrongfully resulting in frames with all pixels as black)</s:String>-->
+    <s:String x:Key="S.Options.Recorder.PreventBlackFrames.Info">(BitBlt가 검은 픽셀로 메모리 캐시를 잘못 채우는 것을 방지합니다.)</s:String>
     <s:String x:Key="S.Options.Recorder.RecordMouse">녹화 중 마우스 커서를 같이 녹화합니다.</s:String>
     <s:String x:Key="S.Options.Recorder.SelectCursorColor">커서의 색을 지정합니다.</s:String>
     <s:String x:Key="S.Options.Recorder.FixedFramerate">프레임레이트 고정</s:String>
